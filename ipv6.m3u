@@ -144,6 +144,10 @@ http://origin.lean.org.cn:4000/udp/239.45.1.47:5140
 #EXTINF:-1 tvg-name="第一卫视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/ChinaTNT/TV/main/tvlog/oneTV.png" group-title="卫视频道",第一卫视
 http://play2.one-tv.com/live/onetv.m3u8
 
+#江西/1个频道
+#EXTINF:-1 tvg-id="江西都视" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="地方频道",江西都市
+http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225584/2/index.m3u8?fmt=ts2hls?zjiangxd
+
 #北京/9个频道
 #EXTINF:-1 tvg-id="BRTV新闻" tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="地方频道",BRTV新闻
 http://114.246.102.14:4000/rtp/239.3.1.159:8000
