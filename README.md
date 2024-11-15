@@ -16,4 +16,5 @@ https://mirror.ghproxy.com/raw.githubusercontent.com/ChinaTNT/TV/main/ipv6.m3u
 
 ## 🆕更新日志
 
+- 2024-11-15：更新频道
 - 2024-9-30：转自https://github.com/suxuang/myIPTV
