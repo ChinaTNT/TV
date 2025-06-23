@@ -5,7 +5,7 @@
 常用直播源测试
 
 ## 📺订阅地址
-https://mirror.ghproxy.com/raw.githubusercontent.com/ChinaTNT/TV/main/ipv6.m3u
+https://ghfast.top/https://github.com/ChinaTNT/TV/blob/main/ipv6.m3u
 
 ## 📖项目说明
 

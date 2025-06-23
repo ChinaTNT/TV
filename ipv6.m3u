@@ -135,7 +135,7 @@ http://play2.one-tv.com/live/onetv.m3u8
 
 #江西/1个频道
 #EXTINF:-1 tvg-id="江西都视" tvg-name="江西都市" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/ChinaTNT/TV/main/tvlog/Jiangxi2.png" group-title="地方频道",江西都市
-http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225584/2/index.m3u8?fmt=ts2hls?zjiangxd
+http://jxcbn.ws-cdn.gitv.tv/hls/JXDS/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
 
 #北京/5个频道
 #EXTINF:-1 tvg-id="BRTV新闻" tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="地方频道",BRTV新闻
